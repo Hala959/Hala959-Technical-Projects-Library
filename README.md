@@ -2,7 +2,7 @@
 
 # Project #3: ![app Logo](https://i.ibb.co/0cbf2ts/download-2.png) Technical Projects Library (MERN-STACK)
 
-### [ Link to View Demo of Web App ](http://localhost:3000/allproject)
+### 
 
 ## Overview:
 
